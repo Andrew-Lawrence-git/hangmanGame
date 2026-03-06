@@ -8,5 +8,4 @@ The game follows the basic rules of hangman, where a player tries to guess a wor
 
 This repository includes a Jupyter Notebook containing the code used to run the game. To play the game download the .ipynb file. Make sure that you have Jupyter Notebook or another program that can read .ipynb files installed.
 
-To execute the code, run each cell from top to bottom. The final cell contains the code that starts the game.
-
+To execute the code, you can use ctrl+enter to run each cell from the top of the page to the bottom. The final cell contains the code that starts the game.
